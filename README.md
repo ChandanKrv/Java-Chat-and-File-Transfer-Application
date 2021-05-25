@@ -1,10 +1,14 @@
-# Java-Chat-and-File-Transfer-Application
-Chat and file transfer application using java socket programming (Computer Networks Lab Project)
-This software is designed and developed by Chandan and group, 
-under guidance of Ananya ma'am.
-College: NiT
-Stream: Computer Science Engineering
-Subject: Computer Network Lab
-Language: Java (Swing, AWT)
-Year/Sem: 3rd/6th
-Date: 25/05/2021"
+## CHAT AND FILE TRANSFER APPLICATION USING SOCKET PROGRAMMING
+
+------------
+
+
+This application software is designed and developed by [Chandan](https://github.com/ChandanKrv "Chandan") and group, 
+under guidance of Ananya mam.
+
+- **College: NiT**
+- **Stream: Computer Science Engineering**
+- **Subject: Computer Network Lab**
+- **Language: Java (Swing, AWT)**
+- **Year/Sem: 3rd/6th**
+- **Date: 25/05/2021"**
